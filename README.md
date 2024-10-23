@@ -13,7 +13,22 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnnaa15&show_icons=true&locale=en&layout=compact" alt="krishnnaa15" /></p>
 
-### ⚙️ Tech Stack
-
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Kubernetes-05122A?style=flat-square&logo=Kubernetes&color=353535) ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=353535) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-Flask-05122A?style=flat-square&logo=Flask&color=353535) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) 
+![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) 
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) 
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) 
+![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat-square&logo=Seaborn&color=353535) 
+![Kivy](https://img.shields.io/badge/-Kivy-05122A?style=flat-square&logo=Kivy&color=353535) 
+![C](https://img.shields.io/badge/-C-05122A?style=flat-square&logo=C&color=353535) 
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat-square&logo=C%2B%2B&color=353535) 
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat-square&logo=SQL&color=353535) 
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) 
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML5&color=353535) 
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3&color=353535) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=JavaScript&color=353535) 
+![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat-square&logo=Microsoft-Excel&color=353535) 
+![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat-square&logo=Power-BI&color=353535) 
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat-square&logo=Tableau&color=353535) 
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat-square&logo=Markdown&color=353535)
 
